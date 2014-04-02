@@ -1,0 +1,8 @@
+C:\Users\T1000\Documents\GitHub\Inzynieria_oprogramowania\Projekt\BibliotekaSQL_v0.1\BibliotekaSQL_v0.1\bin\Release\BibliotekaSQL_v0.1.exe.config
+C:\Users\T1000\Documents\GitHub\Inzynieria_oprogramowania\Projekt\BibliotekaSQL_v0.1\BibliotekaSQL_v0.1\bin\Release\BibliotekaSQL_v0.1.exe
+C:\Users\T1000\Documents\GitHub\Inzynieria_oprogramowania\Projekt\BibliotekaSQL_v0.1\BibliotekaSQL_v0.1\bin\Release\BibliotekaSQL_v0.1.pdb
+C:\Users\T1000\Documents\GitHub\Inzynieria_oprogramowania\Projekt\BibliotekaSQL_v0.1\BibliotekaSQL_v0.1\obj\Release\BibliotekaSQL_v0._1.main_menu.resources
+C:\Users\T1000\Documents\GitHub\Inzynieria_oprogramowania\Projekt\BibliotekaSQL_v0.1\BibliotekaSQL_v0.1\obj\Release\BibliotekaSQL_v0._1.Properties.Resources.resources
+C:\Users\T1000\Documents\GitHub\Inzynieria_oprogramowania\Projekt\BibliotekaSQL_v0.1\BibliotekaSQL_v0.1\obj\Release\BibliotekaSQL_v0.1.csproj.GenerateResource.Cache
+C:\Users\T1000\Documents\GitHub\Inzynieria_oprogramowania\Projekt\BibliotekaSQL_v0.1\BibliotekaSQL_v0.1\obj\Release\BibliotekaSQL_v0.1.exe
+C:\Users\T1000\Documents\GitHub\Inzynieria_oprogramowania\Projekt\BibliotekaSQL_v0.1\BibliotekaSQL_v0.1\obj\Release\BibliotekaSQL_v0.1.pdb
